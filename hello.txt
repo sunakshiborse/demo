@@ -1,1 +1,2 @@
 hello github
+fetch and pull command understanding
